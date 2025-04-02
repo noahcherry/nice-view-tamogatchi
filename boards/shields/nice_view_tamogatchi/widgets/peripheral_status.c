@@ -28,8 +28,8 @@ LV_IMG_DECLARE(billotchi_gen_02);
 
 
 const lv_img_dsc_t *anim_imgs[] = {
-    &billotchi_gen_01
-    &billotchi_gen_02
+    &billotchi_gen_01,
+    &billotchi_gen_02,
 };
 
 static sys_slist_t widgets = SYS_SLIST_STATIC_INIT(&widgets);
